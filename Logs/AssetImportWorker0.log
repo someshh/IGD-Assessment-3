@@ -213,3 +213,227 @@ Received Import Request.
 Start importing Assets/A3Scene.unity using Guid(14ef082cf8a8544da998f474851eed6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dffa62d99449cdaf00682d2dc01ae22') in 0.014292 seconds
   Import took 0.059769 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1057.289565 seconds.
+  path: Assets/Sprites/PacMan.png
+  artifactKey: Guid(c821f8369a0e3483db4360b7604f2238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PacMan.png using Guid(c821f8369a0e3483db4360b7604f2238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64494c216da9e8bae2ea4308e9a6418c') in 0.092421 seconds
+  Import took 0.122257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.511267 seconds.
+  path: Assets/Sprites/New Piskel (1).png
+  artifactKey: Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (1).png using Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248e7c8c087be55098cc483aef1459b4') in 0.044949 seconds
+  Import took 0.058554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.843967 seconds.
+  path: Assets/Sprites/Ghost-normal.png
+  artifactKey: Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost-normal.png using Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1876326b4e9f8213579a0eb510ab4c') in 0.010768 seconds
+  Import took 0.019160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.661429 seconds.
+  path: Assets/Sprites/Ghost1-normal.png
+  artifactKey: Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost1-normal.png using Guid(7a5952e80728546b6bb63919aa001558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a0915f9d55ea54846efe9512d25349') in 0.069781 seconds
+  Import took 0.078116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.553693 seconds.
+  path: Assets/Sprites/New Piskel (2).png
+  artifactKey: Guid(6ae94beda121841b3aec35d989829ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (2).png using Guid(6ae94beda121841b3aec35d989829ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a2bb56f3b0534f241a892061ab16ba') in 0.041908 seconds
+  Import took 0.061807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.088391 seconds.
+  path: Assets/Sprites/Ghost2-normal.png
+  artifactKey: Guid(6ae94beda121841b3aec35d989829ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost2-normal.png using Guid(6ae94beda121841b3aec35d989829ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb0fe46ae09bba45d92388ed8d2bfc1') in 0.013962 seconds
+  Import took 0.021345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 198.417653 seconds.
+  path: Assets/Sprites/New Piskel (3).png
+  artifactKey: Guid(66ec3b4567b7d4a058133e7af43fdd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (3).png using Guid(66ec3b4567b7d4a058133e7af43fdd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8114c0661751746c6209e09ec5cf87') in 0.034577 seconds
+  Import took 0.048351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 665.116809 seconds.
+  path: Assets/Sprites/New Piskel (4).png
+  artifactKey: Guid(dca522c79c1044039a719d2f0ef5bcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (4).png using Guid(dca522c79c1044039a719d2f0ef5bcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f75692d4d983142e3f3d51c12cfd09') in 0.060546 seconds
+  Import took 0.078300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.191682 seconds.
+  path: Assets/Sprites/New Piskel (5).png
+  artifactKey: Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (5).png using Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7278f6c340654600ab6e1385ed0ab38a') in 0.037533 seconds
+  Import took 0.045800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004419 seconds.
+  path: Assets/Sprites/New Piskel (5).png
+  artifactKey: Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (5).png using Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7278f6c340654600ab6e1385ed0ab38a') in 0.010982 seconds
+  Import took 0.015941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.935866 seconds.
+  path: Assets/Sprites/Ghost3-normal.png
+  artifactKey: Guid(66ec3b4567b7d4a058133e7af43fdd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost3-normal.png using Guid(66ec3b4567b7d4a058133e7af43fdd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15edddec89649d90a6fb260828366a5c') in 0.018183 seconds
+  Import took 0.028574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.584847 seconds.
+  path: Assets/Sprites/Ghost4-normal.png
+  artifactKey: Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost4-normal.png using Guid(7a12cdb13d118442f9315a256b2bd76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a164e99f4aa5ff8ad28c7648c3e310') in 0.018383 seconds
+  Import took 0.023684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.513972 seconds.
+  path: Assets/Sprites/New Piskel (6).png
+  artifactKey: Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (6).png using Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c324421d2f54b5673c5dfc44ceb4d32') in 0.038032 seconds
+  Import took 0.046352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002678 seconds.
+  path: Assets/Sprites/New Piskel (6).png
+  artifactKey: Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (6).png using Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c324421d2f54b5673c5dfc44ceb4d32') in 0.014066 seconds
+  Import took 0.019814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.279725 seconds.
+  path: Assets/Sprites/Ghost-scared.png
+  artifactKey: Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost-scared.png using Guid(31523c724c58a4194ba085df03b30c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233b605fb36b91b0fdd55e2fbb560855') in 0.015914 seconds
+  Import took 0.019198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.154524 seconds.
+  path: Assets/Sprites/New Piskel (7).png
+  artifactKey: Guid(f2efa45198c284aaf8d4a4f5f05749d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (7).png using Guid(f2efa45198c284aaf8d4a4f5f05749d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab55389fd456fa4e2f85c77809e1125f') in 0.035433 seconds
+  Import took 0.054393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.474146 seconds.
+  path: Assets/Sprites/Ghost-dead.png
+  artifactKey: Guid(f2efa45198c284aaf8d4a4f5f05749d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ghost-dead.png using Guid(f2efa45198c284aaf8d4a4f5f05749d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e1984dc5dc6e81554836f89d7ba61c') in 0.039010 seconds
+  Import took 0.043271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 473.072547 seconds.
+  path: Assets/Sprites/New Piskel (8).png
+  artifactKey: Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (8).png using Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed06362ee5316b71b3b9a4357dd9bb8e') in 0.045665 seconds
+  Import took 0.060006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011156 seconds.
+  path: Assets/Sprites/New Piskel (8).png
+  artifactKey: Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (8).png using Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed06362ee5316b71b3b9a4357dd9bb8e') in 0.011161 seconds
+  Import took 0.015771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.160075 seconds.
+  path: Assets/Sprites/Pellet-normal.png
+  artifactKey: Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Pellet-normal.png using Guid(84ec2799a4ee4480ea13e7c1cb34c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5448c1a3b7c3c04cc3b89e7d11038833') in 0.017522 seconds
+  Import took 0.021207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.937798 seconds.
+  path: Assets/Sprites/New Piskel (9).png
+  artifactKey: Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (9).png using Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb655af6d7cd7adb1fd227abb22b03b') in 0.021328 seconds
+  Import took 0.038765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.513981 seconds.
+  path: Assets/Sprites/Pellet.png
+  artifactKey: Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Pellet.png using Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28003689b27c9cd043d2097161a2c2e') in 0.013725 seconds
+  Import took 0.025193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.909369 seconds.
+  path: Assets/Sprites/Pellet-power.png
+  artifactKey: Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Pellet-power.png using Guid(486b92ba48f27486dbff95e2a36bf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af0d9218ea10f3dbc4d162d8fb69142') in 0.019440 seconds
+  Import took 0.024848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.640644 seconds.
+  path: Assets/Sprites/New Piskel (10).png
+  artifactKey: Guid(47053a80eb70c41c181993172d09be5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (10).png using Guid(47053a80eb70c41c181993172d09be5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424244c7a2ca5ef4b566864d9fd2650c') in 0.077888 seconds
+  Import took 0.087495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 539.108773 seconds.
+  path: Assets/Sprites/New Piskel (11).png
+  artifactKey: Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (11).png using Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35d3253809f3265dfd78127af85560a') in 0.037731 seconds
+  Import took 0.046208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002697 seconds.
+  path: Assets/Sprites/New Piskel (11).png
+  artifactKey: Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel (11).png using Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35d3253809f3265dfd78127af85560a') in 0.013275 seconds
+  Import took 0.018230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.884326 seconds.
+  path: Assets/Sprites/Life indicator.png
+  artifactKey: Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Life indicator.png using Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6ca14ce72e18874fe676df61dc62fd') in 0.046042 seconds
+  Import took 0.057590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002892 seconds.
+  path: Assets/Sprites/Life indicator.png
+  artifactKey: Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Life indicator.png using Guid(c13efb6bb82a7487b8eaa3af6106dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6ca14ce72e18874fe676df61dc62fd') in 0.024422 seconds
+  Import took 0.038036 seconds .
+
