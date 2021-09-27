@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: a36a20eb113354036bc8634acbb4d075
+=======
+guid: 2d81d1948b4454c5483bbc2814712d2d
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,10 +48,17 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
+<<<<<<< Updated upstream
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+=======
+  alignment: 9
+  spritePivot: {x: 0.44509053, y: 0.64857876}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 8, y: 16, z: 12, w: 7}
+>>>>>>> Stashed changes
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
