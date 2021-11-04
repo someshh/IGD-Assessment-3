@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D0665F39-BFE5-95B9-FC4A-54CC4267EFD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/Lab Week 10 - Solution/Assets/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="../../Downloads/Lab Week 10 - Solution/Assets/Scripts/UIManager.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IGD-Assessment-4" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ef9a84c-9cc8-4c88-be2b-b4f96fd90ffa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
