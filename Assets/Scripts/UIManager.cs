@@ -26,7 +26,6 @@ public class UIManager : MonoBehaviour
 
     public void MainMenu()
     {
-        DontDestroyOnLoad(this);
         SceneManager.LoadSceneAsync(0);
     }
 
